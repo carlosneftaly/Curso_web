@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "57940849",
+    "hash" : "2431066831",
     "id" : "A47903E0",
-    "lastKnownWriteTime" : 1524450861,
-    "last_content_update" : 1524450861699,
+    "lastKnownWriteTime" : 1524452991,
+    "last_content_update" : 1524452991418,
     "path" : "C:/Users/W/Google Drive/Curso_R/Web/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "31,36",
-        "scrollLine" : "24"
+        "cursorPosition" : "50,27",
+        "scrollLine" : "40"
     },
     "relative_order" : 3,
     "source_on_save" : false,
