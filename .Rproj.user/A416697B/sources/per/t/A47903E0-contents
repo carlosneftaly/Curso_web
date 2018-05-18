@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "cursodoe.microbiostats.com"
 title = "Análisis de datos con R"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -6,6 +6,8 @@ languageCode = "en-us"
 disqusShortname = "microbiostats"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-105146909-1"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -15,6 +17,7 @@ googleAnalytics = "UA-105146909-1"
   copyright = "&copy;Carlos Neftaly Lozano - databased"
   sidebarAbout = [
     "Curso de análisis de datos experimentales con R",
+    
     "Organizado por el Grupo de Bacteriología Agrícola y Ambiental y Databased"
   ]
   # Contact page
