@@ -18,7 +18,15 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/portfolio/work2/</guid>
-      <description>&lt;p&gt;En esta sesión te introduceremos de forma óptima al manejo básico de &lt;em&gt;R&lt;/em&gt;.
+      <description>&lt;p&gt;En esta sesión te introduceremos de forma óptima al manejo básico de &lt;em&gt;R&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A continuación encontrás los archivos necesarios para el desarrollo de la sesión:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://png.icons8.com/cotton/50/000000/copy.png&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1tTbMQdAgbeS68xlaJDFNQLw9bnsLqYtd/view?usp=sharing&#34;&gt;Set de datos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://png.icons8.com/ultraviolet/50/000000/xbox-r.png&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1l-vHoSljXrVwWyzD0D0SR6MVoMbDAlAM/view?usp=sharing&#34;&gt;Script R&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://png.icons8.com/dusk/50/000000/presentation.png&#34;&gt;&lt;a href=&#34;/eda&#34;&gt;Presentación&lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     
@@ -28,8 +36,28 @@
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>/portfolio/work3/</guid>
-      <description>&lt;p&gt;En esta sesión continuaremos nuestro aprendizaje sobre el manejo básico de &lt;em&gt;R&lt;/em&gt;.
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;En esta sesión continuaremos nuestro aprendizaje sobre el
+manejo básico de &lt;em&gt;R&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Manipulación de datos con R&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://png.icons8.com/cotton/50/000000/copy.png&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1tTbMQdAgbeS68xlaJDFNQLw9bnsLqYtd/view?usp=sharing&#34;&gt;Set de datos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://png.icons8.com/ultraviolet/50/000000/xbox-r.png&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1ISBGsTWv_AmQeBFSf5X0-f3C5P_idb7s/view?usp=sharing&#34;&gt;Script R&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://png.icons8.com/dusk/50/000000/presentation.png&#34;&gt;&lt;a href=&#34;/man_dplyr&#34;&gt;Presentación&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Análisis de varianza I&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://png.icons8.com/cotton/50/000000/copy.png&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/10LHopkn2DtdhQ4TGmvbnZw5owXhtHXEb/view?usp=sharing&#34;&gt;Set de datos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://png.icons8.com/ultraviolet/50/000000/xbox-r.png&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1rCwj32zCbtBmvj1ljkFsDijKE5NDoBZE/view?usp=sharing&#34;&gt;Script R&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -60,8 +88,9 @@
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
       <guid>/portfolio/work6/</guid>
-      <description>&lt;p&gt;Más allá de la normalidad hay vida&amp;hellip;. Veremos algunos métodos para afrontar violación de supuestos.
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Más allá de la normalidad hay vida&amp;hellip;. Veremos algunos métodos para afrontar violación de supuestos.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

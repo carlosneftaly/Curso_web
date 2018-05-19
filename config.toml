@@ -1,4 +1,4 @@
-baseurl = "cursodoe.microbiostats.com"
+baseurl = "/"
 title = "Análisis de datos con R"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
